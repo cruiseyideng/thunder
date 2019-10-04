@@ -1,8 +1,7 @@
-# thunder
-
-# 2019-10-4
-1.BUG多福多彩：服务器没有及时刷新客户端金额
-2.服务器部署
-3.BUG后台报错：非法节点
-4.后台关闭dev模式
-5.支付接入
+IyB0aHVuZGVy
+IyAyMDE5LTEwLTQ=
+MS5CVUflpJrnpo/lpJrlvanvvJrmnI3liqHlmajmsqHmnInlj4rml7bliLfmlrDlrqLmiLfnq6/ph5Hpop0=
+Mi7mnI3liqHlmajpg6jnvbI=
+My5CVUflkI7lj7DmiqXplJnvvJrpnZ7ms5XoioLngrk=
+NC7lkI7lj7DlhbPpl61kZXbmqKHlvI8=
+NS7mlK/ku5jmjqXlhaU=
